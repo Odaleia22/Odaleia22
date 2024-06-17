@@ -1,4 +1,4 @@
-## **👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!**
+## **👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!⭐**
 
 * ✔  Trabalho como Analista de Qualidade
 * 📈 Estudando Data Analytic e Datavis com Python, SQL, Excel, SQL, Power BI e Looker
