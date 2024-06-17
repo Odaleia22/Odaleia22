@@ -7,8 +7,8 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/Odaleia22"><img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Odaleia22&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" /></a></td>
-    <td><a href="https://github.com/Odaleia22"><img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odaleia22&theme=cobalt&hide_border=true&layout=compact&langs_count=8" /></a></td>
+    <td><a href="https://github.com/Odaleia22"><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=Odaleia22&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" /></a></td>
+    <td><a href="https://github.com/Odaleia22"><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odaleia22&theme=cobalt&hide_border=true&layout=compact&langs_count=8" /></a></td>
   </tr>
 </table>
 
