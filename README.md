@@ -1,9 +1,15 @@
-## **👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!**
+<h2 align="center" >👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!</h2>
 
 * ✔  Trabalho como Analista de Qualidade
 * 📈 Estudando Data Analytic e Datavis com Python, SQL, Excel, SQL, Power BI e Looker
 * 😎 Sempre pronta para embarcar em uma nova jornada de aprendizado!
 * 🚺 Pronomes ela/dela
+
+  </div>
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+
+<br>
   
 <div align="center">
   <!-- Power BI -->
@@ -29,6 +35,8 @@
   <!-- Looker -->
   <img src="https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white" alt="Looker"/>
 </div>
+
+<br>
 
 <div align="center">
   <table>
