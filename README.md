@@ -14,4 +14,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/www.linkedin.com/in/odaléia)
 
-![snake gif](https://github.com/www.linkedin.com/in/odaléia/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg%29)
+
