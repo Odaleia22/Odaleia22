@@ -1,7 +1,7 @@
 <h2 align="center" >👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!</h2>
 
 * ✔  Atualmente, trabalhando como Analista de Qualidade
-* 📈 Estudando Data Analytic e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
+* 📈 Estudando Data Analytics e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
 * 😎 Sempre pronta para embarcar em uma nova jornada de aprendizado!
 * 🚺 Pronomes ela/dela
 * Visite o meu Linkedin😉 <a href="https://www.linkedin.com/in/odaléia">
