@@ -1,4 +1,4 @@
-<h2 align="center" >👋 Hi, I’m Odaléia Gomes. Welcome to my universe of data!</h2>
+<h2 align="center" >👋 Olá, eu me chamo Odaléia. Seja bem-vindo(a) ao meu Github!</h2>
 
 * ✔  Atualmente, trabalhando como Analista de Qualidade
 * 📈 Estudando Data Analytics e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
