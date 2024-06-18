@@ -4,6 +4,10 @@
 * 📈 Estudando Data Analytic e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
 * 😎 Sempre pronta para embarcar em uma nova jornada de aprendizado!
 * 🚺 Pronomes ela/dela
+* <a href="https://www.linkedin.com/in/odaléia">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+  </a>
+</p>
 
   </div>
 
@@ -46,13 +50,6 @@
     </tr>
   </table>
   
-</div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/odaléia">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
-  </a>
-</p>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=6a0dad&lines=Obrigada+pela+atenção!;" />
