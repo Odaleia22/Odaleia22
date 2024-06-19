@@ -4,7 +4,7 @@
 * 📈 Estudando Data Analytics e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
 * 😎 Sempre pronta para embarcar em uma nova jornada de aprendizado!
 * 🚺 Pronomes ela/dela
-* Visite o meu Linkedin😉 <a href="https://www.linkedin.com/in/odaléia">
+* Visite o meu Linkedin <a href="https://www.linkedin.com/in/odaléia">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
   </a>
 </p>
