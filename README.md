@@ -1,7 +1,7 @@
 <h2 align="center" >👋 Olá, eu me chamo Odaléia. Seja bem-vindo(a) ao meu Github!</h2>
 
 * ✔  Atualmente, trabalhando como Analista de Qualidade
-* 📈 Estudando Data Analytics e DataVis com Python, SQL, Excel, SQL, Power BI e Looker
+* 📈 Estudando Data Analytics e DataVis com Python, SQL, Excel, Power BI, Looker e Figma
 * 😎 Sempre pronta para embarcar em uma nova jornada de aprendizado!
 * 🚺 Pronomes ela/dela
 * Visite o meu Linkedin <a href="https://www.linkedin.com/in/odaléia">
